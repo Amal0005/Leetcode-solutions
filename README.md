@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
