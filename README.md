@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0434-number-of-segments-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [3396-valid-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/3396-valid-word) |
 ## Greedy
 |  |
 | ------- |
