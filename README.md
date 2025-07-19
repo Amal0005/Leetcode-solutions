@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0434-number-of-segments-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
@@ -54,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
