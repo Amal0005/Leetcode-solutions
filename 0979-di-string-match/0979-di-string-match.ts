@@ -4,7 +4,7 @@ function diStringMatch(s: string): number[] {
     let arr: number[] = [];
 
 
-    for (let i = 0; i < s.length; i++) {
+    for (let i = 0; i <= s.length; i++) {
         if (s[i] === "I") {
             arr.push(small)
             small++
@@ -13,6 +13,5 @@ function diStringMatch(s: string): number[] {
             large--
         }
     }
-    arr.push(small)
     return arr
 };
