@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Amal0005/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0728-self-dividing-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1274-number-of-days-between-two-dates](https://github.com/Amal0005/Leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
 ## Linked List
 |  |
