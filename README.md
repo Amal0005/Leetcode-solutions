@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/Amal0005/Leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amal0005/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Amal0005/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0728-self-dividing-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1274-number-of-days-between-two-dates](https://github.com/Amal0005/Leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
