@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Amal0005/Leetcode-solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2350-find-closest-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3221-find-the-peaks](https://github.com/Amal0005/Leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amal0005/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
