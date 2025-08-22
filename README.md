@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Amal0005/Leetcode-solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2350-find-closest-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3221-find-the-peaks](https://github.com/Amal0005/Leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3723-sum-of-good-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/3723-sum-of-good-numbers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Heap (Priority Queue)
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Amal0005/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Amal0005/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
