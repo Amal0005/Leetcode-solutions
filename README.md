@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1646-kth-missing-positive-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Amal0005/Leetcode-solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2350-find-closest-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Amal0005/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Amal0005/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1646-kth-missing-positive-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
