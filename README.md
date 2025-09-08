@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1274-number-of-days-between-two-dates](https://github.com/Amal0005/Leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
