@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amal0005/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/Amal0005/Leetcode-solutions/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Enumeration
 |  |
 | ------- |
