@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3396-valid-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/3396-valid-word) |
+| [3447-clear-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3447-clear-digits) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Amal0005/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3311-ant-on-the-boundary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
+| [3447-clear-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
