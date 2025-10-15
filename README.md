@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amal0005/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Amal0005/Leetcode-solutions/tree/master/4012-earliest-time-to-finish-one-task) |
 ## Enumeration
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3830-find-closest-person](https://github.com/Amal0005/Leetcode-solutions/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Linked List
 |  |
 | ------- |
