@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
