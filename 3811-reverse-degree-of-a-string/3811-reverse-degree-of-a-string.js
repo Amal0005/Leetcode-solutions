@@ -8,7 +8,6 @@ var reverseDegree = function (s) {
     for (let i = 0; i <= s.length; i++) {
         if (letters.includes(s[i])) {
             let val = 1 + letters.indexOf(s[i])
-            console.log(val)
             sum += (val * (i + 1))
         }
     }
