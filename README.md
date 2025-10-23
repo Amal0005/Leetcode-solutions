@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Amal0005/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Amal0005/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Amal0005/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Amal0005/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Amal0005/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Amal0005/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Amal0005/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Amal0005/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
