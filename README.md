@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amal0005/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/Amal0005/Leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amal0005/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/Amal0005/Leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Design
 |  |
 | ------- |
