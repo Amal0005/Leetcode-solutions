@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [1677-matrix-diagonal-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Amal0005/Leetcode-solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -352,5 +353,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Amal0005/Leetcode-solutions/tree/master/0777-toeplitz-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal0005/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
