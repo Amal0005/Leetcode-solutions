@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Amal0005/Leetcode-solutions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Amal0005/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Amal0005/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [2128-reverse-prefix-of-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Amal0005/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Amal0005/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3311-ant-on-the-boundary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amal0005/Leetcode-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
