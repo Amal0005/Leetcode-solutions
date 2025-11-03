@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Amal0005/Leetcode-solutions/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Amal0005/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amal0005/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
