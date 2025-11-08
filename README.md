@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amal0005/Leetcode-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3567-convert-date-to-binary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2159-two-out-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
