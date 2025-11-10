@@ -7,8 +7,8 @@
 var getFinalState = function (nums, k, multiplier) {
     for (let i = 0; i < k; i++) {
         let min = Math.min(...nums);
-        let indx = nums.indexOf(min);
-        nums[indx] = min * multiplier;
+        let index = nums.indexOf(min);
+        nums[index] = min * multiplier;
     }
     return nums;
 };
