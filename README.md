@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Amal0005/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Amal0005/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Amal0005/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Amal0005/Leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
