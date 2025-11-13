@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Amal0005/Leetcode-solutions/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amal0005/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Amal0005/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
+| [4107-find-missing-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
