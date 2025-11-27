@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/Amal0005/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2788-split-strings-by-separator](https://github.com/Amal0005/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3221-find-the-peaks](https://github.com/Amal0005/Leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal0005/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/Amal0005/Leetcode-solutions/tree/master/2716-minimize-string-length) |
+| [2788-split-strings-by-separator](https://github.com/Amal0005/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Amal0005/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3396-valid-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amal0005/Leetcode-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
