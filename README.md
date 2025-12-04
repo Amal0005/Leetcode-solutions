@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-smallest-range-i) |
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Amal0005/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Amal0005/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Amal0005/Leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amal0005/Leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Amal0005/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Geometry
 |  |
