@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Amal0005/Leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
