@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Amal0005/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Amal0005/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0204-count-primes) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Amal0005/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Amal0005/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Amal0005/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/0326-power-of-three) |
