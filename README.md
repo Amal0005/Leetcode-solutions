@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Amal0005/Leetcode-solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1797-goal-parser-interpretation](https://github.com/Amal0005/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
