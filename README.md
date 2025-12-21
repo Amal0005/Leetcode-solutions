@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0941-sort-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-smallest-range-i) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Amal0005/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Amal0005/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/Amal0005/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1274-number-of-days-between-two-dates](https://github.com/Amal0005/Leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
