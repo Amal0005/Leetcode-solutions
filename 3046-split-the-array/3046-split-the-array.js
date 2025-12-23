@@ -8,5 +8,5 @@ var isPossibleToSplit = function (nums) {
         return acc;
     }, {});
     const arr = Object.values(freq)
-    return !arr.every((item) => item > 2)
+    return !arr.some((item) => item > 2)
 };
