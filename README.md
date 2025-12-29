@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1720-decode-xored-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Amal0005/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Amal0005/Leetcode-solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Amal0005/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1720-decode-xored-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [2159-two-out-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
