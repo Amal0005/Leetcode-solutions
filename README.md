@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Amal0005/Leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Amal0005/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Amal0005/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [2159-two-out-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
