@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/Amal0005/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Amal0005/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
