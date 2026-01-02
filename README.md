@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-smallest-range-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Amal0005/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Amal0005/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
