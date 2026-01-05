@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/Amal0005/Leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Amal0005/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amal0005/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+| [2562-find-the-array-concatenation-value](https://github.com/Amal0005/Leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amal0005/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2562-find-the-array-concatenation-value](https://github.com/Amal0005/Leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3311-ant-on-the-boundary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amal0005/Leetcode-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3447-clear-digits) |
