@@ -9,7 +9,7 @@ var missingMultiple = function (nums, k) {
         if (!nums.includes(val)) {
             return val
         } else {
-            if (nums.length == 1) return val + val
+            // if (nums.length == 1) return val + val
             val += k
         }
     }
