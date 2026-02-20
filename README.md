@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Amal0005/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/Amal0005/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Amal0005/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Amal0005/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/Amal0005/Leetcode-solutions/tree/master/0504-base-7) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Amal0005/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0709-to-lower-case](https://github.com/Amal0005/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/Amal0005/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Amal0005/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Amal0005/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Amal0005/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 ## Trie
 |  |
 | ------- |
@@ -622,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Amal0005/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Amal0005/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
