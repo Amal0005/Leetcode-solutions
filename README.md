@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Amal0005/Leetcode-solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amal0005/Leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Amal0005/Leetcode-solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Amal0005/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Amal0005/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -632,4 +635,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Amal0005/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
