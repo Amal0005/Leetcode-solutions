@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Amal0005/Leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [2788-split-strings-by-separator](https://github.com/Amal0005/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amal0005/Leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Amal0005/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3396-valid-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amal0005/Leetcode-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amal0005/Leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Amal0005/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Amal0005/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amal0005/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Amal0005/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2998-count-symmetric-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3024-type-of-triangle](https://github.com/Amal0005/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
