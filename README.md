@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Amal0005/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Amal0005/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 ## Backtracking
 |  |
@@ -643,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
