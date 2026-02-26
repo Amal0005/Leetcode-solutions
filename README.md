@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Amal0005/Leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Amal0005/Leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/Amal0005/Leetcode-solutions/tree/master/0777-toeplitz-matrix) |
+| [0908-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0941-sort-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-smallest-range-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Amal0005/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0908-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0944-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-smallest-range-i) |
 | [1103-distribute-candies-to-people](https://github.com/Amal0005/Leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1274-number-of-days-between-two-dates](https://github.com/Amal0005/Leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
