@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Amal0005/Leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Amal0005/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Amal0005/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1720-decode-xored-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Amal0005/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/2159-two-out-of-three) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Amal0005/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/Amal0005/Leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amal0005/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
