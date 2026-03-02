@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Amal0005/Leetcode-solutions/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Amal0005/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0709-to-lower-case](https://github.com/Amal0005/Leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Amal0005/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Amal0005/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Amal0005/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Prefix Sum
 |  |
