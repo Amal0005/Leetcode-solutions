@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Amal0005/Leetcode-solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amal0005/Leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amal0005/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/Amal0005/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1904-second-largest-digit-in-a-string) |
