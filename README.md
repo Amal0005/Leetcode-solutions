@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amal0005/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/Amal0005/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amal0005/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Amal0005/Leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Amal0005/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Amal0005/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Amal0005/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amal0005/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Tree
 |  |
 | ------- |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/Amal0005/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amal0005/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Interactive
 |  |
