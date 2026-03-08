@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Amal0005/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/Amal0005/Leetcode-solutions/tree/master/2714-left-and-right-sum-differences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2788-split-strings-by-separator](https://github.com/Amal0005/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amal0005/Leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2716-minimize-string-length](https://github.com/Amal0005/Leetcode-solutions/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2716-minimize-string-length](https://github.com/Amal0005/Leetcode-solutions/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/Amal0005/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amal0005/Leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/Amal0005/Leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/Amal0005/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3311-ant-on-the-boundary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amal0005/Leetcode-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
