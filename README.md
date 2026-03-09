@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Amal0005/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2413-smallest-even-multiple](https://github.com/Amal0005/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2481-strictly-palindromic-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/Amal0005/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Amal0005/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amal0005/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
