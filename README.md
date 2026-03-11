@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3798-largest-even-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
+| [3856-trim-trailing-vowels](https://github.com/Amal0005/Leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
