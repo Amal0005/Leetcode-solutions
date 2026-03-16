@@ -2,7 +2,8 @@
  * @param {number[]} candyType
  * @return {number}
  */
-var distributeCandies = function (candyType) {
-    let candy = new Set(candyType)
-    return Math.min(candy.size, candyType.length / 2)
+var distributeCandies = function(candyType) {
+    let can=candyType.length/2
+    let arr=[...new Set(candyType)]
+  return arr.length<can?arr.length:can
 };
