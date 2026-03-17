@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Amal0005/Leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Amal0005/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Amal0005/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Amal0005/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1274-number-of-days-between-two-dates](https://github.com/Amal0005/Leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amal0005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Amal0005/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Amal0005/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Amal0005/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
