@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2788-split-strings-by-separator](https://github.com/Amal0005/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amal0005/Leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2716-minimize-string-length](https://github.com/Amal0005/Leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Amal0005/Leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
