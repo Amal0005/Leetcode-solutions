@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Amal0005/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Amal0005/Leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Amal0005/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Amal0005/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/Amal0005/Leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Amal0005/Leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2058-concatenation-of-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -698,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/0292-nim-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Amal0005/Leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
