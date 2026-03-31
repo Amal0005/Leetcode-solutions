@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Amal0005/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3151-special-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3221-find-the-peaks](https://github.com/Amal0005/Leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal0005/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
