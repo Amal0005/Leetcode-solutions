@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amal0005/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Amal0005/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Amal0005/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Amal0005/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Amal0005/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Amal0005/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Amal0005/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amal0005/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Amal0005/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Amal0005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Amal0005/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
