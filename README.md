@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Amal0005/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amal0005/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Amal0005/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Amal0005/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Amal0005/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Amal0005/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Amal0005/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Amal0005/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
