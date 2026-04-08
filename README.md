@@ -590,12 +590,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amal0005/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amal0005/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Amal0005/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [2384-root-equals-sum-of-children](https://github.com/Amal0005/Leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amal0005/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amal0005/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Amal0005/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amal0005/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amal0005/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Amal0005/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [2384-root-equals-sum-of-children](https://github.com/Amal0005/Leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Design
 |  |
@@ -734,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Amal0005/Leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Amal0005/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
