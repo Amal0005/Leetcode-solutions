@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Amal0005/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Amal0005/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Amal0005/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Amal0005/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/Amal0005/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Amal0005/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Amal0005/Leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/Amal0005/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
