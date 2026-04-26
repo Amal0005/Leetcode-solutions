@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Amal0005/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3151-special-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3151-special-array-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3221-find-the-peaks](https://github.com/Amal0005/Leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal0005/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Amal0005/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal0005/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
