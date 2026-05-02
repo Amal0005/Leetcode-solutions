@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Amal0005/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/Amal0005/Leetcode-solutions/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Amal0005/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Amal0005/Leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/Amal0005/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Amal0005/Leetcode-solutions/tree/master/0709-to-lower-case) |
