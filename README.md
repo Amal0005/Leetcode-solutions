@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amal0005/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Amal0005/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Amal0005/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Amal0005/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Amal0005/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Amal0005/Leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Amal0005/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Amal0005/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Amal0005/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Amal0005/Leetcode-solutions/tree/master/0067-add-binary) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Amal0005/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/Amal0005/Leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Amal0005/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
