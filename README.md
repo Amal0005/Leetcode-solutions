@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amal0005/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
