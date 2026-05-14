@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3151-special-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3221-find-the-peaks](https://github.com/Amal0005/Leetcode-solutions/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal0005/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Amal0005/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Amal0005/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
