@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/Amal0005/Leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Amal0005/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [2562-find-the-array-concatenation-value](https://github.com/Amal0005/Leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Amal0005/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
 | ------- |
