@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3895-count-digit-appearances](https://github.com/Amal0005/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Amal0005/Leetcode-solutions/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Amal0005/Leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3895-count-digit-appearances](https://github.com/Amal0005/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Linked List
 |  |
 | ------- |
