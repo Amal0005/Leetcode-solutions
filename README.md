@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Amal0005/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Amal0005/Leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3396-valid-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/3396-valid-word) |
