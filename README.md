@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0979-di-string-match](https://github.com/Amal0005/Leetcode-solutions/tree/master/0979-di-string-match) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1274-number-of-days-between-two-dates](https://github.com/Amal0005/Leetcode-solutions/tree/master/1274-number-of-days-between-two-dates) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Amal0005/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Amal0005/Leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2128-reverse-prefix-of-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
