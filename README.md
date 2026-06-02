@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Amal0005/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Amal0005/Leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/Amal0005/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3311-ant-on-the-boundary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3360-stone-removal-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3379-transformed-array) |
