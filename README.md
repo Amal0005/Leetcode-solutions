@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3379-transformed-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Amal0005/Leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
