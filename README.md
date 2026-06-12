@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amal0005/Leetcode-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3798-largest-even-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/3798-largest-even-number) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3371-harshad-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3379-transformed-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Amal0005/Leetcode-solutions/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3447-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Amal0005/Leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3790-fruits-into-baskets-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Amal0005/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amal0005/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -844,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Amal0005/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Function
 |  |
 | ------- |
