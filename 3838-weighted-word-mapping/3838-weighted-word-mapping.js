@@ -17,5 +17,4 @@ var mapWordWeights = function (words, weights) {
         res += text[index2 - 1]
     }
     return res
-
 };
