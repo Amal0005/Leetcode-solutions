@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amal0005/Leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1580-shuffle-the-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Amal0005/Leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1646-kth-missing-positive-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/Amal0005/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1677-matrix-diagonal-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Amal0005/Leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Amal0005/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
