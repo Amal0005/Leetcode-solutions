@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amal0005/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Amal0005/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Amal0005/Leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Amal0005/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Amal0005/Leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Amal0005/Leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Amal0005/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Amal0005/Leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/Amal0005/Leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Amal0005/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amal0005/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
