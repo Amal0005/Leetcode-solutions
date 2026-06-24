@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Amal0005/Leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0908-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0908-smallest-range-i) |
+| [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Amal0005/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0941-sort-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0944-smallest-range-i) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Amal0005/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Amal0005/Leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Amal0005/Leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Amal0005/Leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -762,10 +765,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Amal0005/Leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Amal0005/Leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -795,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amal0005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Amal0005/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -841,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Amal0005/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Amal0005/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Amal0005/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -894,4 +901,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Amal0005/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
