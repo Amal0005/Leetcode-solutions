@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Amal0005/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/Amal0005/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Amal0005/Leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2998-count-symmetric-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
