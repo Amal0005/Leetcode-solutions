@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Amal0005/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3046-split-the-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Amal0005/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Amal0005/Leetcode-solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3151-special-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3151-special-array-i) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Amal0005/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3311-ant-on-the-boundary](https://github.com/Amal0005/Leetcode-solutions/tree/master/3311-ant-on-the-boundary) |
 | [3360-stone-removal-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3379-transformed-array) |
