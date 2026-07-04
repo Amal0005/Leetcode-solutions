@@ -657,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Amal0005/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/2159-two-out-of-three) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2317-maximum-xor-after-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Amal0005/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
