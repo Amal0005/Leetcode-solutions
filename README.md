@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amal0005/Leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/3360-stone-removal-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3371-harshad-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
