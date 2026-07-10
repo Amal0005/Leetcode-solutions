@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amal0005/Leetcode-solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amal0005/Leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/Amal0005/Leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Amal0005/Leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amal0005/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Amal0005/Leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Amal0005/Leetcode-solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Amal0005/Leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Amal0005/Leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Amal0005/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Amal0005/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
