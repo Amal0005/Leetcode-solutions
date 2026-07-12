@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Amal0005/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Amal0005/Leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Amal0005/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Amal0005/Leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/Amal0005/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Amal0005/Leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
