@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Amal0005/Leetcode-solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Amal0005/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Amal0005/Leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Amal0005/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1965-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2317-maximum-xor-after-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2413-smallest-even-multiple](https://github.com/Amal0005/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Amal0005/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Amal0005/Leetcode-solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Amal0005/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amal0005/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
