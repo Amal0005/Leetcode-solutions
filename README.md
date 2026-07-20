@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1446-consecutive-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Amal0005/Leetcode-solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1507-reformat-date](https://github.com/Amal0005/Leetcode-solutions/tree/master/1507-reformat-date) |
