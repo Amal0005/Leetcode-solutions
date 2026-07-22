@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/Amal0005/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Amal0005/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3921-score-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3921-score-validator) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Amal0005/Leetcode-solutions/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Amal0005/Leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Amal0005/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Amal0005/Leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3811-reverse-degree-of-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Amal0005/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Amal0005/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3921-score-validator) |
 ## Number Theory
 |  |
 | ------- |
