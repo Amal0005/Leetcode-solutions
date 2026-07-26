@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Amal0005/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Amal0005/Leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Amal0005/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Amal0005/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amal0005/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Amal0005/Leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Amal0005/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Amal0005/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Amal0005/Leetcode-solutions/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Amal0005/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
