@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3668-restore-finishing-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3723-sum-of-good-numbers](https://github.com/Amal0005/Leetcode-solutions/tree/master/3723-sum-of-good-numbers) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Amal0005/Leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amal0005/Leetcode-solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Stack
 |  |
 | ------- |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Backtracking
 |  |
 | ------- |
