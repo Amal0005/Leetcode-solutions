@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amal0005/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amal0005/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Amal0005/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2317-maximum-xor-after-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2350-find-closest-number-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Amal0005/Leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amal0005/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Amal0005/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Amal0005/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amal0005/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Amal0005/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Amal0005/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2363-merge-similar-items](https://github.com/Amal0005/Leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Amal0005/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2784-check-if-array-is-good](https://github.com/Amal0005/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
