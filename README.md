@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/Amal0005/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
+| [2810-faulty-keyboard](https://github.com/Amal0005/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amal0005/Leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/Amal0005/Leetcode-solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/Amal0005/Leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Amal0005/Leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/Amal0005/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Amal0005/Leetcode-solutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2974-minimum-number-game](https://github.com/Amal0005/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
