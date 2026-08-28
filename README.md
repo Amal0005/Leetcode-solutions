@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/Amal0005/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Amal0005/Leetcode-solutions/tree/master/3931-check-adjacent-digit-differences) |
+| [4006-count-valid-prefixes](https://github.com/Amal0005/Leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 ## Greedy
 |  |
 | ------- |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3778-transform-array-by-parity](https://github.com/Amal0005/Leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Amal0005/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4006-count-valid-prefixes](https://github.com/Amal0005/Leetcode-solutions/tree/master/4006-count-valid-prefixes) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
