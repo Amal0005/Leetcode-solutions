@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Amal0005/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Amal0005/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Amal0005/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3921-score-validator) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Amal0005/Leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Amal0005/Leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Amal0005/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Amal0005/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Amal0005/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
