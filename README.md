@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Amal0005/Leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2864-maximum-odd-binary-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3110-score-of-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Amal0005/Leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/Amal0005/Leetcode-solutions/tree/master/3136-valid-word) |
