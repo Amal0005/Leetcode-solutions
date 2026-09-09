@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Amal0005/Leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Amal0005/Leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1436-destination-city](https://github.com/Amal0005/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Amal0005/Leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Amal0005/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amal0005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Amal0005/Leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1436-destination-city](https://github.com/Amal0005/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amal0005/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Amal0005/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Amal0005/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1417-reformat-the-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1417-reformat-the-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Amal0005/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1436-destination-city](https://github.com/Amal0005/Leetcode-solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Amal0005/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Amal0005/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Amal0005/Leetcode-solutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
