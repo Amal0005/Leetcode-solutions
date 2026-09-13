@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/Amal0005/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/Amal0005/Leetcode-solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Amal0005/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Amal0005/Leetcode-solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/Amal0005/Leetcode-solutions/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4020-elevator-requests-i](https://github.com/Amal0005/Leetcode-solutions/tree/master/4020-elevator-requests-i) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/Amal0005/Leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Amal0005/Leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Amal0005/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Amal0005/Leetcode-solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Linked List
 |  |
 | ------- |
